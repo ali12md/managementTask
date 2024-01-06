@@ -66,7 +66,7 @@ function App(): JSX.Element {
     <SafeAreaView style={backgroundStyle}>
       <View>
         <Text>
-          dfdf
+          javed
         </Text>
       </View>
     </SafeAreaView>
